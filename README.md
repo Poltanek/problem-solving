@@ -1,4 +1,6 @@
-# problem-solving
+# problem-solving-algorithmic-questions
+
+![1st 20 Marker](https://github.com/user-attachments/assets/596b996d-645e-4c01-b510-258ddb55a0f0)
 
 ```
 Procedure ConcurrentRunningAverage
@@ -16,6 +18,7 @@ Procedure ConcurrentRunningAverage
     End Function
 End Procedure
 ```
+![2nd 20 Marker](https://github.com/user-attachments/assets/91d8d3c0-4685-46fa-9294-f23bc277369f)
 
 ```
 Procedure ExtractUniqueAlphabets(word)
